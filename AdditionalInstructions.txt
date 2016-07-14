@@ -8,3 +8,5 @@ To flag all files not ignored to be tracked, use the 'git add .' command.
 git commit -m '<message>' will save the changes.
 
 shortcut to add tracked files and commit: git commit -a -m '<message>'. This does not work for files that aren't yet tracked.
+
+'git push' will add to github.

@@ -20,7 +20,7 @@ var Main = (props) => {
             <h2>Main Component</h2>
             {props.children}
         </div>
-    )
+    );
 };
 
 module.exports = Main;
