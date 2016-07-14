@@ -3,6 +3,8 @@ Use get init to initialize a git repository.
 'git status' lets you check the status of your repository.
 create a .gitignore file to remove any files you don't want committed (like node_modules)
 
-To flag all files not ignored to be committed, use the 'git add .' command.
+To flag all files not ignored to be tracked, use the 'git add .' command.
 
 git commit -m '<message>' will save the changes.
+
+shortcut to add tracked files and commit: git commit -a -m '<message>'. This does not work for files that aren't yet tracked.
