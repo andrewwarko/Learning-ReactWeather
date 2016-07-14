@@ -1,0 +1,6 @@
+Use get init to initialize a git repository.
+
+'git status' lets you check the status of your repository.
+create a .gitignore file to remove any files you don't want committed (like node_modules)
+
+To add files to be committed, use the git add command.
