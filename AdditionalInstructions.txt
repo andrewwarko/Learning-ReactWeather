@@ -9,4 +9,6 @@ git commit -m '<message>' will save the changes.
 
 shortcut to add tracked files and commit: git commit -a -m '<message>'. This does not work for files that aren't yet tracked.
 
-'git push' will add to github.
+'git push origin master' will add to github.
+
+git push heroku master will push the changes to heroku.
